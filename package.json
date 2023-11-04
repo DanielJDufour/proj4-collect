@@ -1,6 +1,6 @@
 {
   "name": "proj4-collect",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Collect and Merge all Available Proj4 Instances",
   "main": "./index.js",
   "files": [
