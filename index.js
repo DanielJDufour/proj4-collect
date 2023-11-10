@@ -42,5 +42,5 @@ if (typeof window === "object") {
 }
 
 if (typeof self === "object") {
-  window.proj4collect = proj4collect;
+  self.proj4collect = proj4collect;
 }
